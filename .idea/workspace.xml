@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747562223080</updated>
-      <workItem from="1747562224093" duration="1937000" />
+      <workItem from="1747562224093" duration="4420000" />
     </task>
     <servers />
   </component>
@@ -62,6 +62,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/zootopia$animals_web_generator.coverage" NAME="animals_web_generator Coverage Results" MODIFIED="1747564129960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zootopia$animals_web_generator.coverage" NAME="animals_web_generator Coverage Results" MODIFIED="1747566219581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
